@@ -24,5 +24,29 @@
     "drupal/paragraphs": "^1.8",
     "drupal/pathauto": "^1.4",
     "league/flysystem-aws-s3-v3": "^1.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "installer-paths": {
+      "web/core": [
+        "type:drupal-core"
+      ],
+      "web/libraries/{$name}": [
+        "type:drupal-library"
+      ],
+      "web/modules/contrib/{$name}": [
+        "type:drupal-module"
+      ],
+      "web/profiles/contrib/{$name}": [
+        "type:drupal-profile"
+      ],
+      "web/themes/contrib/{$name}": [
+        "type:drupal-theme"
+      ],
+      "drush/Commands/{$name}": [
+        "type:drupal-drush"
+      ]
+    }
   }
 }
