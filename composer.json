@@ -9,6 +9,12 @@
       "email": "stephan.de.bruin@in10.nl"
     }
   ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
   "require": {
     "drupal/adminimal_admin_toolbar": "^1.9",
     "drupal/adminimal_theme": "^1.4",
