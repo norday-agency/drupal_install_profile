@@ -1,0 +1,22 @@
+{
+  "name": "in10/drupal_install_profile",
+  "description": "Default IN10 install profile for Drupal projects",
+  "type": "drupal-profile",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stephan de Bruin",
+      "email": "stephan.de.bruin@in10.nl"
+    }
+  ],
+  "require": {
+    "drupal/adminimal_admin_toolbar": "^1.9",
+    "drupal/adminimal_theme": "^1.4",
+    "drupal/devel": "^2.1",
+    "drupal/flysystem": "^1.0",
+    "drupal/flysystem_s3": "^1.0@beta",
+    "drupal/paragraphs": "^1.8",
+    "drupal/pathauto": "^1.4",
+    "league/flysystem-aws-s3-v3": "^1.0"
+  }
+}
