@@ -4,5 +4,26 @@ dependencies: {  }
 id: editor
 label: Editor
 weight: 3
-is_admin: true
-permissions: {  }
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access content overview'
+  - 'access media overview'
+  - 'access site in maintenance mode'
+  - 'access taxonomy overview'
+  - 'access toolbar'
+  - 'administer nodes'
+  - 'administer taxonomy'
+  - 'create media'
+  - 'create url aliases'
+  - 'delete any media'
+  - 'delete media'
+  - 'update any media'
+  - 'update media'
+  - 'use yoast seo'
+  - 'view all media revisions'
+  - 'view all revisions'
+  - 'view own unpublished content'
+  - 'view own unpublished media'
+  - 'view the administration theme'
+  - 'view unpublished paragraphs'
