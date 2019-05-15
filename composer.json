@@ -19,6 +19,7 @@
     "drupal/adminimal_admin_toolbar": "^1.9",
     "drupal/adminimal_theme": "^1.4",
     "drupal/devel": "^2.1",
+    "drupal/field_group": "^1.0",
     "drupal/flysystem": "^1.0",
     "drupal/flysystem_s3": "^1.0@beta",
     "drupal/paragraphs": "^1.8",
