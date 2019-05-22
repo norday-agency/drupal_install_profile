@@ -46,6 +46,7 @@ install:
   - link
   - media
   - media_library
+  - metatag
   - options
   - page_cache
   - paragraphs
@@ -56,6 +57,7 @@ install:
   - text
   - views
   - views_ui
+  - yoast_seo
 
 dependencies:
   - node
