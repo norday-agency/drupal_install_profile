@@ -32,6 +32,7 @@ install:
   - dblog
   - devel
   - dynamic_page_cache
+  - drupal_laravel_cache
   - editor
   - field
   - field_group
