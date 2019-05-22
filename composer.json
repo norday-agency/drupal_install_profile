@@ -13,6 +13,10 @@
     {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:IN10/drupal_laravel_cache"
     }
   ],
   "require": {
@@ -22,10 +26,12 @@
     "drupal/field_group": "^1.0",
     "drupal/flysystem": "^1.0",
     "drupal/flysystem_s3": "^1.0@beta",
+    "drupal/graphql": "^3.0@RC",
     "drupal/paragraphs": "^1.8",
     "drupal/pathauto": "^1.4",
     "drupal/yoast_seo": "^1.5",
-    "league/flysystem-aws-s3-v3": "^1.0"
+    "league/flysystem-aws-s3-v3": "^1.0",
+    "in10/drupal_laravel_cache": "^1.0"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
