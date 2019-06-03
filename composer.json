@@ -16,22 +16,39 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:IN10/deployment"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:IN10/drupal_laravel_cache"
     }
   ],
   "require": {
     "drupal/adminimal_admin_toolbar": "^1.9",
     "drupal/adminimal_theme": "^1.4",
+    "drupal/consumer_image_styles": "^3.0@rc",
+    "drupal/consumers": "^1.8",
+    "drupal/contentajs": "^1.0@beta",
+    "drupal/decoupled_router": "^1.1",
     "drupal/devel": "^2.1",
     "drupal/field_group": "^1.0",
     "drupal/flysystem": "^1.0",
     "drupal/flysystem_s3": "^1.0@beta",
-    "drupal/graphql": "^3.0@RC",
+    "drupal/inline_entity_form": "^1.0@beta",
+    "drupal/jsonapi_extras": "^3.6",
+    "drupal/openapi": "^1.0@beta",
+    "drupal/openapi_ui": "^1.0@rc",
+    "drupal/openapi_ui_redoc": "^1.0@rc",
     "drupal/paragraphs": "^1.8",
     "drupal/pathauto": "^1.4",
+    "drupal/schemata": "^1.0@alpha",
+    "drupal/simple_oauth": "^3.3",
+    "drupal/subrequests": "^2.0",
     "drupal/yoast_seo": "^1.5",
-    "league/flysystem-aws-s3-v3": "^1.0",
-    "in10/drupal_laravel_cache": "^1.0"
+    "in10/deployment": "^3.1",
+    "in10/drupal_laravel_cache": "^1.0",
+    "league/flysystem-aws-s3-v3": "^1.0"
+
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
