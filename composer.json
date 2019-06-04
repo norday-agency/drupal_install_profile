@@ -33,7 +33,7 @@
     "drupal/decoupled_router": "^1.1",
     "drupal/devel": "^2.1",
     "drupal/fieldable_path": "^1.0@RC",
-    "drupal/field_group": "^1.0",
+    "drupal/field_group": "^3.0@RC",
     "drupal/flysystem": "^1.0",
     "drupal/flysystem_s3": "^1.0@beta",
     "drupal/inline_entity_form": "^1.0@beta",
