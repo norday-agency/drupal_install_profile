@@ -1,5 +1,6 @@
 {
   "name": "in10/drupal_install_profile",
+  "version": "1.1.0",
   "description": "Default IN10 install profile for Drupal projects",
   "type": "drupal-profile",
   "license": "MIT",
