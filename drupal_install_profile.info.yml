@@ -66,6 +66,7 @@ install:
   - restui
   - schemata
   - simple_oauth
+  - simple_oauth_extras
   - subrequests
   - taxonomy
   - telephone
