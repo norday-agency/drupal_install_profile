@@ -46,6 +46,7 @@ install:
   - filter
   - flysystem
   - flysystem_s3
+  - hal
   - image
   - inline_entity_form
   - jsonapi
