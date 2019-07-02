@@ -34,7 +34,6 @@ install:
   - dynamic_page_cache
   - editor
   - field
-  - fieldable_path
   - field_group
   - field_ui
   - file
