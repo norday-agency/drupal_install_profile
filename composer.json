@@ -1,6 +1,6 @@
 {
   "name": "in10/drupal_install_profile",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Default IN10 install profile for Drupal projects",
   "type": "drupal-profile",
   "license": "MIT",
@@ -36,7 +36,7 @@
     "drupal/pathauto": "^1.4",
     "drupal/registration_role": "^1.1@beta",
     "drupal/yoast_seo": "^1.5",
-    "in10/deployment": "^3.2",
+    "in10/deployment": "^4.0@alpha",
     "league/flysystem-aws-s3-v3": "^1.0"
 
   },
