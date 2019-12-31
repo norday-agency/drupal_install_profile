@@ -46,7 +46,7 @@
     "drupal/registration_role": "^1.1@beta",
     "drupal/restui": "^1.17",
     "drupal/schemata": "^1.0@alpha",
-    "drupal/simple_oauth": "^3.3",
+    "drupal/simple_oauth": "^4.0",
     "drupal/subrequests": "^2.0",
     "drupal/yoast_seo": "^1.5",
     "in10/deployment": "^4.0@alpha",
