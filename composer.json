@@ -1,6 +1,6 @@
 {
   "name": "in10/drupal_install_profile",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Default IN10 install profile for Drupal projects",
   "type": "drupal-profile",
   "license": "MIT",
@@ -52,7 +52,9 @@
     "in10/deployment": "^4.0",
     "in10/drupal_laravel_cache": "^1.0",
     "league/flysystem-aws-s3-v3": "^1.0"
-
+  },
+  "require-dev": {
+    "drupal/core-dev": "^8"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
