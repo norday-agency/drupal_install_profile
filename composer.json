@@ -51,7 +51,8 @@
     "in10/deployment": "^4.0",
     "in10/drupal_laravel_cache": "^1.0",
     "league/flysystem-aws-s3-v3": "^1.0",
-    "drush/drush": "^10.0"
+    "drush/drush": "^10.0",
+    "vlucas/phpdotenv": "^4.1"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
