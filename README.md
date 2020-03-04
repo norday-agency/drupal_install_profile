@@ -15,8 +15,16 @@ Add a repository to your composer.json
 ]
 ```
 
-Get it with composer
+###Get it with composer
+
+For a Headless Drupal installation:
 
 ```bash
-composer require in10/drupal_install_profile
+composer require "in10/drupal_install_profile: 2.*"
+```
+
+For a Drupal only installation:
+
+```bash
+composer require "in10/drupal_install_profile: 1.*"
 ```
