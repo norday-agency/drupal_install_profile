@@ -1,7 +1,7 @@
 name: IN10
 type: profile
 description: 'Basic Drupal install profile'
-core: 8.x
+core_version_requirement: ^8.8.0 || ^9
 
 distribution:
   name: IN10
