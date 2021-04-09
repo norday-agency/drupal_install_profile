@@ -26,7 +26,7 @@
   "require": {
     "drupal/adminimal_admin_toolbar": "^1.10",
     "drupal/adminimal_theme": "^1.4",
-    "drupal/consumer_image_styles": "^3.0",
+    "drupal/consumer_image_styles": "3.0",
     "drupal/consumers": "^1.10",
     "drupal/contentajs": "^1.0@beta",
     "drupal/decoupled_router": "^1.11",
@@ -48,7 +48,7 @@
     "drupal/simple_oauth": "^4.3",
     "drupal/subrequests": "^2.2",
     "drupal/yoast_seo": "^2.0@dev",
-    "in10/deployment": "^4.0",
+    "in10/deployment": "^5.0",
     "in10/drupal_laravel_cache": "^1.0",
     "league/flysystem-aws-s3-v3": "^1.0",
     "drush/drush": "^10.0",
