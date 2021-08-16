@@ -30,7 +30,7 @@
     "drupal/consumers": "^1.10",
     "drupal/contentajs": "^1.0@beta",
     "drupal/decoupled_router": "^1.11",
-    "drupal/devel": "^2.1",
+    "drupal/devel": "^4.1",
     "drupal/fieldable_path": "^1.0@RC",
     "drupal/field_group": "^3.0",
     "drupal/flysystem": "^1.0",
