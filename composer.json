@@ -26,7 +26,7 @@
   "require": {
     "drupal/adminimal_admin_toolbar": "^1.10",
     "drupal/adminimal_theme": "^1.4",
-    "drupal/consumer_image_styles": "^4.0",
+    "drupal/consumer_image_styles": "4.*",
     "drupal/consumers": "^1.10",
     "drupal/contentajs": "^2.0",
     "drupal/decoupled_router": "^2.0",
