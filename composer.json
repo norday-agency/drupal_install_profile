@@ -49,7 +49,7 @@
     "drupal/subrequests": "^3.0",
     "drupal/yoast_seo": "^2.0@alpha",
     "in10/deployment": "^5.0",
-    "in10/drupal_laravel_cache": "^1.1",
+    "in10/drupal_laravel_cache": "1.*",
     "league/flysystem-aws-s3-v3": "^1.0",
     "drush/drush": "^10.0",
     "vlucas/phpdotenv": "^4.1"
