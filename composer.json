@@ -17,25 +17,21 @@
     {
       "type": "vcs",
       "url": "git@github.com:IN10/deployment"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:IN10/drupal_laravel_cache"
     }
   ],
   "require": {
-    "drupal/adminimal_admin_toolbar": "^1.9",
+    "drupal/adminimal_admin_toolbar": "^1.10",
     "drupal/adminimal_theme": "^1.4",
-    "drupal/devel": "^2.1",
-    "drupal/field_group": "^3.0@RC",
-    "drupal/flysystem": "^1.0",
-    "drupal/flysystem_s3": "^1.0@beta",
-    "drupal/inline_entity_form": "^1.0@beta",
-    "drupal/paragraphs": "^1.8",
-    "drupal/pathauto": "^1.4",
-    "drupal/registration_role": "^1.1@beta",
-    "drupal/yoast_seo": "^1.5",
-    "in10/deployment": "^4.0@alpha",
+    "drupal/devel": "^4.1",
+    "drupal/field_group": "^3.0",
+    "drupal/flysystem": "^3.0",
+    "drupal/flysystem_s3": "^2.0@RC",
+    "drupal/inline_entity_form": "^1.0@RC",
+    "drupal/paragraphs": "^1.12",
+    "drupal/pathauto": "^1.8",
+    "drupal/registration_role": "^1.1",
+    "drupal/yoast_seo": "^2.0@alpha",
+    "in10/deployment": "^5.0",
     "league/flysystem-aws-s3-v3": "^1.0",
     "drush/drush": "^10.0",
     "vlucas/phpdotenv": "^4.1"
