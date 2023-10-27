@@ -1,7 +1,7 @@
 name: IN10
 type: profile
 description: 'Basic Drupal install profile'
-core_version_requirement: ^8.8.0 || ^9
+core_version_requirement: ^8.8.0 || ^9 || ^10
 
 distribution:
   name: IN10
@@ -16,15 +16,14 @@ distribution:
   #
   # To set your theme as the theme for the distribution installation uncomment the following:
   #
-  install:
-    theme: adminimal_theme
+  # install:
+  #   theme: adminimal_theme
   langcode: en
 
 install:
   - admin_toolbar
   - adminimal_admin_toolbar
   - block
-  - ckeditor
   - config
   - contextual
   - datetime
@@ -51,19 +50,12 @@ install:
   - paragraphs
   - path
   - pathauto
-  - registration_role
   - taxonomy
   - telephone
   - text
   - views
   - views_ui
-  - yoast_seo
 
 dependencies:
   - node
   - views
-
-themes:
-  - adminimal_theme
-
-
