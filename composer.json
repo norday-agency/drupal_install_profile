@@ -16,7 +16,7 @@
     },
     {
       "type": "vcs",
-      "url": "git@github.com:IN10/deployment"
+      "url": "git@github.com:norday-agency/deployment"
     },
     {
       "type": "vcs",
@@ -39,6 +39,7 @@
     "drupal/pathauto": "^1.8",
     "drupal/restui": "^1.17",
     "drupal/rest_menu_items": "^3.0",
+    "drupal/yoast_seo": "^2.0",
     "in10/deployment": "^5.0",
     "in10/drupal_laravel_cache": "2.*",
     "in10/fieldable_path": "dev-main",
